@@ -1,3 +1,3 @@
 # homework
-Homework and Projects for submission |
+Homework 1st week |
 HoriSEOn Webpage.
