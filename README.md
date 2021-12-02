@@ -6,3 +6,4 @@
 * Cleaned and added to code.
 
 ### HoriSEOn webpage that markets business management
+![image](https://user-images.githubusercontent.com/93723279/144517776-1c58c073-7c0b-4a0a-95a5-6ee33e7976d6.png)
